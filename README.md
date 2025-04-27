@@ -1,4 +1,4 @@
-# Portfolio BTS SIO SLAM - Mahamadou SOUKOUNA
+# Portfolio BTS SIO SLAM - Muhammad Hamza NAVEED
 <img src ="./assets/img/Image 08-07-2024 à 18.24.png/">
 
 ## A propos du projet
@@ -28,5 +28,5 @@ Si vous avez des suggestions d'amélioration ou souhaitez contribuer au projet, 
 ## Contact
 Pour toute question ou demande, vous pouvez me contacter via:
 
-Email : mamadousoukouna96@gmail.com
-LinkedIn : www.linkedin.com/in/mrsoukouna
+Email : hamzanaveed.it2@gmail.com
+LinkedIn : www.linkedin.com/in/naveedhamza
