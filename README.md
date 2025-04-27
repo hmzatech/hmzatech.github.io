@@ -1,5 +1,5 @@
-# Portfolio BTS SIO SLAM - Mahamadou SOUKOUNA
-<img src ="./assets/img/Image 08-07-2024 à 18.24.png/">
+# Portfolio BTS SIO SLAM - Muhammad Hamza NAVEED
+<img src ="./assets/img/Image code.png/">
 
 ## A propos du projet
 Ce portfolio est développé dans le cadre de mon épreuve de BTS SIO option SLAM. Il vise à présenter mes compétences techniques ainsi que les projets sur lesquels j'ai travaillé au cours de ma formation. Ce site est une vitrine de mon savoir-faire en développement informatique, spécifiquement orienté vers les solutions d'applications et de management de systèmes d'information.
@@ -28,5 +28,5 @@ Si vous avez des suggestions d'amélioration ou souhaitez contribuer au projet, 
 ## Contact
 Pour toute question ou demande, vous pouvez me contacter via:
 
-Email : mamadousoukouna96@gmail.com
-LinkedIn : www.linkedin.com/in/mrsoukouna
+Email : hamzanaveed.it2@gmail.com
+LinkedIn : www.linkedin.com/in/naveedhamza
