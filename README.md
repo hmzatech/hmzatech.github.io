@@ -29,4 +29,4 @@ Si vous avez des suggestions d'amélioration ou souhaitez contribuer au projet, 
 Pour toute question ou demande, vous pouvez me contacter via:
 
 Email : hamzanaveed.it2@gmail.com
-LinkedIn : www.linkedin.com/in/naveedhamza
+LinkedIn : https://www.linkedin.com/in/hamza-n-450694250/
